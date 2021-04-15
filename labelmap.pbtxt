@@ -1,0 +1,20 @@
+item {
+    id: 1
+    name: 'silinder'
+}
+item {
+    id: 2
+    name: 'kotak'
+}
+item {
+    id: 3
+    name: 'segitiga'
+}
+item {
+    id: 4
+    name: 'bola'
+}
+item {
+    id: 5
+    name: 'cone'
+}
